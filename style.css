@@ -48,11 +48,10 @@ header {
 
 li {
     list-style-type: none;
-    text-decoration: none;
     color: white;
 }
 
 a {
-   list-style-type: none;
     text-decoration: none; 
+    color: white;
 }
