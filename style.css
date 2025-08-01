@@ -21,6 +21,9 @@ body {
     background-color: var(--fundo);
     color: var(--txt);
     line-height: 1.6;
+}
+
+main {
     align-items: center;
 }
 
@@ -41,6 +44,11 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+footer {
+    background-color: #3ca6a6;
+    align-items: center;
 }
 
 li {
