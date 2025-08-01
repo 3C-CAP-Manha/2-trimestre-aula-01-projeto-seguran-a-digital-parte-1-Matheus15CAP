@@ -10,10 +10,6 @@
     --titulof: "Rakkas", serif;
 }
 
-main {
-    align-items: center;
-}
-
 *{
     margin: 0;
     padding: 0;
@@ -25,6 +21,7 @@ body {
     background-color: var(--fundo);
     color: var(--txt);
     line-height: 1.6;
+    align-items: center;
 }
 
 h3 {
