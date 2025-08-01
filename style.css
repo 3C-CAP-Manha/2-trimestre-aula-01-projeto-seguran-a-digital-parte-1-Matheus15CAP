@@ -10,6 +10,10 @@
     --titulof: "Rakkas", serif;
 }
 
+main {
+    align-items: center;
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -40,4 +44,15 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+
+a {
+   list-style-type: none;
+    text-decoration: none; 
 }
